@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "veekshith-thoram",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "parseStyle(poetry)",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Veekshith Thoram",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -36,9 +36,7 @@
     "prettier": "^2.5.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
